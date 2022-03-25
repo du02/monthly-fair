@@ -13,9 +13,11 @@ Sistema web em desenvolvimento, utilizando o framework Laravel 7
 > Impressão dos produtos e valores  
 
 ## Prévia. (Previow.)
+> Página inicial - Home Page
+![](C:\Users\eduar\OneDrive\Imagens\mf.png)
 
-
-
+> Página de Impressão - Impress Page
+![](C:\Users\eduar\OneDrive\Imagens\mf-impress.png)
 ## Diário de Bordo. (Logbook.) 
 
 Dia 21/03:

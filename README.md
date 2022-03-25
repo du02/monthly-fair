@@ -14,10 +14,13 @@ Sistema web em desenvolvimento, utilizando o framework Laravel 7
 
 ## Prévia. (Previow.)
 > Página inicial - Home Page
-![](C:\Users\eduar\OneDrive\Imagens\mf.png)
+![mf](https://user-images.githubusercontent.com/40076527/160125077-ce42ebb2-6379-4da7-b009-5e237b43fdd7.png)
+
 
 > Página de Impressão - Impress Page
-![](C:\Users\eduar\OneDrive\Imagens\mf-impress.png)
+![mf-impress](https://user-images.githubusercontent.com/40076527/160125180-d706b8e7-4a3d-4f65-b292-9bee5a298502.png)
+
+
 ## Diário de Bordo. (Logbook.) 
 
 Dia 21/03:

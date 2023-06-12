@@ -58,7 +58,7 @@
                             </thead>
                             <tbody>
                                 @foreach($items as $item)
-                                    <tr>
+                                    <tr class="text-uppercase">
                                         <th scope="row" class="text-center">{{ $item->id }}</th>
                                         <td>{{ $item->name }}</td>
                                         <td>R$ {{ number_format($item->price, 2, ',') }}</td>
@@ -167,6 +167,7 @@
                                         type="number"
                                         class="form-control @error('amount') is-invalid @enderror"
                                         placeholder="Qtd"
+                                        value="1"
                                         required
                                         value="{{ old('amount') }}"
                                     >

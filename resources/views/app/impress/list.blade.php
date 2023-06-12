@@ -23,6 +23,7 @@
         }
         td {
             border-bottom: 1px solid #eee;
+            font-size: 14px;
         }
 
         .text-center {
@@ -41,7 +42,8 @@
 
     <body>
         <div>
-            <h2 class="h2">Lista Mensal</h2>
+            <p style="text-align: right">Educ Infinity - Fair | {{ date("d.m.Y") }}</p>
+            <h2 class="h2">Lista Mensal/Semanal</h2>
                 <table class="table">
                     <thead>
                     <tr>
